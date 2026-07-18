@@ -1,0 +1,9 @@
+pandas
+numpy
+plotly
+kaleido
+streamlit
+streamlit-sortables>=0.3.1
+Pillow>=10.0
+python-dotenv
+google-genai
