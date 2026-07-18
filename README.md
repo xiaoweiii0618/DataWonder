@@ -5,10 +5,8 @@
 DataWonder is a dataset-agnostic business analytics dashboard. Upload a CSV and it automatically profiles the data, identifies the available analytical opportunities, generates visual insights, and lets users build a final presentation dashboard without learning Power BI or Tableau.
 
 ## Live demo and source code
-
-- **Live demo:** `[https://<your-streamlit-subdomain>.streamlit.app](https://datawonder.streamlit.app/)`
-- **Source code:** `[https://github.com/<your-github-username>/datawonder](https://github.com/xiaoweiii0618/DataWonder)`
-
+- 🚀 **Live demo:** https://datawonder.streamlit.app/
+- 📂 **Source code:** https://github.com/xiaoweiii0618/DataWonder
 Replace these placeholders after publishing the project. The two URLs can then be used in Devpost's **Try it out** section.
 
 ## Why DataWonder?
