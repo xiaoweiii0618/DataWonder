@@ -6,8 +6,8 @@ DataWonder is a dataset-agnostic business analytics dashboard. Upload a CSV and 
 
 ## Live demo and source code
 
-- **Live demo:** `https://<your-streamlit-subdomain>.streamlit.app`
-- **Source code:** `https://github.com/<your-github-username>/datawonder`
+- **Live demo:** `[https://<your-streamlit-subdomain>.streamlit.app](https://datawonder.streamlit.app/)`
+- **Source code:** `[https://github.com/<your-github-username>/datawonder](https://github.com/xiaoweiii0618/DataWonder)`
 
 Replace these placeholders after publishing the project. The two URLs can then be used in Devpost's **Try it out** section.
 
