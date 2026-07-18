@@ -1,0 +1,17 @@
+# Local Python and Streamlit files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Generated and editor files
+*.html
+*.png
+*.pdf
+.DS_Store
+Thumbs.db
